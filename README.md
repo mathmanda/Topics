@@ -1,5 +1,5 @@
 # Lecture Topics
-#dafaasdf
+#daf
 
 The course syllabus (and setup instructions) can be found
 [here](http://rudeboybert.github.io/teaching/courses/MATH216/2016-02.html).
